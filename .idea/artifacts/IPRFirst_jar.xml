@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="IPRFirst:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/IPRFirst_jar</output-path>
+    <root id="archive" name="IPRFirst.jar">
+      <element id="module-output" name="IPRFirst" />
+    </root>
+  </artifact>
+</component>
